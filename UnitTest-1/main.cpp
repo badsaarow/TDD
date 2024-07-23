@@ -1,9 +1,6 @@
-#include <iostream>
 
-int add(int a, int b)
-{
-	return 0;
-}
+#include <iostream>
+#include "main.h"
 
 int main()
 {
